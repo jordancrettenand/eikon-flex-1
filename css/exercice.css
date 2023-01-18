@@ -4,9 +4,13 @@
 }
 
 /* 2. exercice-direction-1 */
-
+.exercice-flex .container {
+ flex-direction: row;
+}
 /* 3. exercice-direction-2 */
-
+.exercice-flex .container {
+  background: green;
+}
 /* 4. exercice-direction-2 */
 
 /* 5. exercice-wrap-1 */
