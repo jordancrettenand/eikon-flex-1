@@ -8,8 +8,8 @@
  flex-direction: row;
 }
 /* 3. exercice-direction-2 */
-.exercice-flex .container {
-  background: green;
+.exercice-direction-1 .container {
+  flex-direction: column;
 }
 /* 4. exercice-direction-2 */
 
